@@ -1,4 +1,3 @@
-import React from "react";
 import fetchNews from "../../lib/fetchNews";
 import NewsLists from "../NewsLists";
 type Props = {
